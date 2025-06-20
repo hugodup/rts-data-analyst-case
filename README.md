@@ -18,5 +18,5 @@ This repository contains my submission for the RTS Data Analyst take-home case s
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/rts-data-analyst-case.git
+git clone https://github.com/hugodup/rts-data-analyst-case.git
 cd rts-data-analyst-case
