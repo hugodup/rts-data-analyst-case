@@ -1,2 +1,4 @@
-dbt-snowflake
-snowflake-connector-python
+pandas
+numpy
+matplotlib
+scipy
