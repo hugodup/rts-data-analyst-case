@@ -77,5 +77,4 @@ It demonstrates my approach to data cleaning, exploration, business logic, and a
 
 ## 📬 Contact
 
-Questions or feedback? Reach out at [your email] or [LinkedIn].
-
+Questions or feedback? Reach out at hugo.dupouy@gmail.com
