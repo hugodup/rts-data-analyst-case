@@ -19,7 +19,7 @@ It demonstrates my approach to data cleaning, exploration, business logic, and a
 
 1. **Clone the repository:**
     ```bash
-    git clone <your_repo_url>
+    git clone https://github.com/hugodup/rts-data-analyst-case
     cd rts-data-analyst-case
     ```
 
